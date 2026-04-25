@@ -40,30 +40,37 @@ The tests are written for a live React SPA application:
 
 ## ▶️ How to run tests
 
-```bash
+bash
+
 # Install dependencies
+
 npm install
 
 # Run all tests
+
 npx playwright test
 
 # Run tests with browser visible
+
 npx playwright test --headed
 
 # Open HTML test report
+
 npx playwright show-report
 
 # Run tests in UI mode (visual runner)
-npx playwright test --ui
-```
 
-🎯 Purpose
+npx playwright test --ui
+
+---
+
+## 🎯 Purpose
 
 I built this project to practice QA automation and understand how to test real frontend applications using Playwright.
 
 This project demonstrates:
 
-. End-to-end testing
-. Cross-browser testing
-. Real user flow testing
-. API testing
+- End-to-end testing
+- Cross-browser testing
+- Real user flow testing
+- API testing
