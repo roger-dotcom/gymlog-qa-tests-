@@ -1,6 +1,6 @@
 # QA Automation Project – GymLog (Playwright)
 🔗 **Live App:** https://gymlog-react-spa-1.vercel.app/  
-🔗 **GitHub Repo:** [Open repository](https://github.com/roger-dotcom/gymlog-qa-tests)
+🔗 **GitHub Repo:** [Open repository](https://github.com/roger-dotcom/gymlog-qa-tests-)
 
 ---
 
